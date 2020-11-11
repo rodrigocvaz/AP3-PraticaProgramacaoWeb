@@ -21,8 +21,8 @@ continue_btn.onclick = ()=>{
 }
 
 let que_count = 0;
-let que_numb = 1;
 let userScore = 0;
+let que_numb = 1;
 let widthValue = 0;
 
 const restart_quiz = result_box.querySelector(".buttons .restart");
@@ -240,4 +240,4 @@ let questions = [
       "72 horas ou mais"
     ]
   },
-];
+]
